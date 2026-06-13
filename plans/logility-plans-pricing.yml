@@ -1,0 +1,34 @@
+name: Logility Plans and Pricing
+description: Logility offers enterprise supply chain planning software with customized pricing based on organizational size, number of users, and modules selected. As an enterprise platform serving 600+ clients across 80 countries, pricing is quote-based and tailored to each customer's specific supply chain requirements.
+url: https://www.logility.com/contact-us/
+created: 2026-06-13
+modified: 2026-06-13
+plans:
+  - name: Enterprise
+    description: Full-featured enterprise supply chain planning platform with AI-powered demand planning, inventory optimization, S&OP, supply planning, and analytics. Pricing is customized based on the number of users, modules selected, industry vertical, and scale of deployment. Contact sales for a personalized quote.
+    url: https://www.logility.com/contact-us/
+    pricing:
+      - unit: Custom
+        type: Quote-based
+        notes: Pricing is tailored to organizational requirements; estimated range $100-$500 per user per month depending on modules and scale. Implementation typically costs $100K-$500K over 3-6 months.
+    features:
+      - DemandAI+ demand planning and demand sensing
+      - InventoryAI+ inventory optimization and MEIO
+      - Automated inventory policies
+      - S&OP and S&OE scenario planning
+      - Decision Command Center
+      - Network optimization and supply chain design
+      - Manufacturing execution and optimization
+      - Supplier/vendor management, sourcing, quality and compliance
+      - Traceability capabilities
+      - AppCentral AI-native orchestration platform
+      - Advanced analytics and reporting
+      - Logility University training access
+      - Pre-built ERP connectors and integration templates
+      - ML-based data quality management
+      - Multi-tenant cloud deployment
+notes:
+  - No publicly published pricing tiers; all pricing requires direct sales engagement
+  - Contact sales at info@logility.com or +1 800-762-5207
+  - Free demo available via the Logility website
+  - Implementation effort reduced by up to 90% via pre-built connectors

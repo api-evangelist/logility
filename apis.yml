@@ -1,0 +1,64 @@
+aid: logility
+name: Logility
+description: Logility is an AI-powered supply chain planning platform providing solutions for demand sensing, inventory optimization, supply planning, S&OP process management, and supply chain analytics. Part of Aptean, Logility serves 600+ clients across 80 countries with capabilities for demand planning, inventory optimization, scenario planning, manufacturing execution, and supplier management across 12+ industry verticals.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/apis.yml
+created: 2026-06-13
+modified: 2026-06-13
+specificationVersion: '0.19'
+tags:
+  - Supply Chain
+  - Demand Planning
+  - Inventory Optimization
+  - Supply Planning
+  - S&OP
+  - Supply Chain Analytics
+  - AI
+  - Machine Learning
+apis:
+  - aid: logility:logility-supply-chain-api
+    name: Logility Supply Chain API
+    description: REST API for Logility's AI-powered supply chain planning platform, enabling integration with demand sensing, inventory optimization, supply planning, S&OP process management, and supply chain analytics capabilities through AppCentral's orchestration layer.
+    image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+    humanURL: https://www.logility.com/solutions/platform/
+    baseURL: https://api.logility.com
+    tags:
+      - Supply Chain
+      - Demand Planning
+      - Inventory Optimization
+      - Supply Planning
+      - S&OP
+      - Analytics
+    properties:
+      - type: Documentation
+        url: https://www.logility.com/solutions/platform/
+      - type: Plans
+        url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/plans/logility-plans-pricing.yml
+      - type: RateLimits
+        url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/rate-limits/logility-rate-limits.yml
+      - type: FinOps
+        url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/finops/logility-finops.yml
+common:
+  - type: Website
+    url: https://www.logility.com/
+  - type: Documentation
+    url: https://www.logility.com/solutions/platform/
+  - type: Blog
+    url: https://www.logility.com/blog/
+  - type: Pricing
+    url: https://www.logility.com/contact-us/
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/logility
+  - type: X
+    url: https://twitter.com/logilityinc
+  - type: Contact
+    url: https://www.logility.com/contact-us/
+  - type: Plans
+    url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/plans/logility-plans-pricing.yml
+  - type: RateLimits
+    url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/rate-limits/logility-rate-limits.yml
+  - type: FinOps
+    url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/finops/logility-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com

@@ -1,0 +1,18 @@
+name: Logility Rate Limits
+description: Logility does not publish public rate limit documentation. As an enterprise supply chain planning platform, API rate limits and throttling policies are defined per customer contract and negotiated as part of the enterprise agreement. Customers should consult their Logility account team or client services for specific rate limit details applicable to their deployment.
+url: https://www.logility.com/contact-us/
+created: 2026-06-13
+modified: 2026-06-13
+rateLimits:
+  - name: Enterprise API Rate Limits
+    description: Rate limits are configured on a per-customer basis as part of the enterprise deployment agreement. No publicly documented limits are available; limits vary based on contract tier, number of concurrent users, data volume, and deployment configuration.
+    notes:
+      - Rate limits are not publicly disclosed
+      - Limits are established per customer enterprise agreement
+      - Contact Logility client services for specific rate limit details
+      - AppCentral's orchestration layer manages real-time signal processing with performance SLAs defined per contract
+contact:
+  name: Logility Client Services
+  url: https://www.logility.com/contact-us/
+  email: info@logility.com
+  phone: "+1 800-762-5207"

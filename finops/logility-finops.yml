@@ -1,0 +1,35 @@
+name: Logility FinOps
+description: Logility's supply chain planning platform uses a subscription-based enterprise pricing model with costs determined by the scale of deployment, number of users, and modules selected. There is no usage-based or consumption pricing model; costs are fixed within annual or multi-year enterprise contracts. Financial operations for Logility integrations are managed through the enterprise agreement with Aptean/Logility.
+url: https://www.logility.com/contact-us/
+created: 2026-06-13
+modified: 2026-06-13
+model: Subscription
+billingCycle: Annual (multi-year contracts available)
+pricingType: Quote-based / Custom
+usageBased: false
+notes:
+  - Logility uses a fixed annual subscription model; no pay-per-use or consumption-based pricing
+  - Implementation costs are separate from subscription fees and are project-based
+  - Estimated subscription: $100-$500 per user per month (market estimate; actual pricing varies)
+  - Estimated implementation cost: $100K-$500K over 3-6 months
+  - Module-based pricing: costs increase with additional supply chain modules selected
+  - No free tier or trial; demo available upon request via sales team
+  - Cost optimization is achieved by selecting only the required modules
+  - Pre-built connectors reduce integration development costs by up to 90%
+  - Logility University training may be included or separately licensed
+costFactors:
+  - factor: Number of users
+    description: Per-user licensing affects total subscription cost
+  - factor: Modules selected
+    description: Demand planning, inventory optimization, S&OP, supply planning, analytics, supplier management each add to cost
+  - factor: Industry vertical
+    description: Specialized configurations for food & beverage, CPG, apparel, life sciences, etc. may affect pricing
+  - factor: Deployment scale
+    description: Global multi-site deployments cost more than single-region implementations
+  - factor: Implementation services
+    description: Professional services for implementation, training, and ongoing support are typically separate costs
+contact:
+  name: Logility Sales
+  email: info@logility.com
+  phone: "+1 800-762-5207"
+  url: https://www.logility.com/contact-us/

@@ -1,0 +1,72 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "https://www.logility.com/",
+  "name": "Logility",
+  "description": "Logility is an AI-powered supply chain planning platform providing solutions for demand sensing, inventory optimization, supply planning, S&OP process management, and supply chain analytics. Part of Aptean, Logility serves 600+ clients across 80 countries with capabilities for demand planning, inventory optimization, scenario planning, manufacturing execution, and supplier management across 12+ industry verticals.",
+  "url": "https://www.logility.com/",
+  "logo": "https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg",
+  "sameAs": [
+    "https://www.linkedin.com/company/logility",
+    "https://twitter.com/logilityinc"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "url": "https://www.logility.com/contact-us/",
+    "contactType": "customer support"
+  },
+  "knowsAbout": [
+    "Supply Chain Planning",
+    "Demand Planning",
+    "Inventory Optimization",
+    "Supply Planning",
+    "Sales and Operations Planning",
+    "Supply Chain Analytics",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Demand Sensing",
+    "Scenario Planning",
+    "Manufacturing Execution",
+    "Supplier Management"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Logility Supply Chain Platform",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "name": "Demand Planning",
+        "description": "AI-powered demand sensing and forecasting to improve forecast accuracy and reduce inventory costs."
+      },
+      {
+        "@type": "Offer",
+        "name": "Inventory Optimization",
+        "description": "Multi-echelon inventory optimization to balance service levels against working capital requirements."
+      },
+      {
+        "@type": "Offer",
+        "name": "Supply Planning",
+        "description": "Integrated supply planning with scenario analysis and constrained supply allocation."
+      },
+      {
+        "@type": "Offer",
+        "name": "S&OP Process Management",
+        "description": "AI-driven Sales and Operations Planning for improved organizational alignment and decision-making."
+      },
+      {
+        "@type": "Offer",
+        "name": "Supply Chain Analytics",
+        "description": "Advanced analytics and reporting for end-to-end supply chain visibility and performance management."
+      }
+    ]
+  },
+  "subjectOf": {
+    "@type": "WebSite",
+    "url": "https://www.logility.com/",
+    "name": "Logility",
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": "https://www.logility.com/blog/"
+    }
+  }
+}

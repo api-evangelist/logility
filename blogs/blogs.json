@@ -1,7 +1,7 @@
 {
   "provider": "logility",
   "blogUrl": "https://www.logility.com/blog/",
-  "fetched": "2026-06-13",
+  "fetched": "2026-06-14T20:42:17Z",
   "posts": [
     {
       "title": "A Framework for Generative AI Readiness and Supply Chain Maturity in 8 Steps",
@@ -228,5 +228,16 @@
       "url": "https://www.logility.com/blog/5-reasons-logility-aptean-unite25/",
       "description": "Highlights conference benefits including peer collaboration and hands-on product learning opportunities."
     }
-  ]
+  ],
+  "repo": "logility",
+  "feeds": [
+    {
+      "source": "https://www.logility.com/solutions/platform/",
+      "feed_url": "https://www.logility.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 0
 }

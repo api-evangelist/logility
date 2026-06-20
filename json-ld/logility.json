@@ -5,7 +5,7 @@
   "name": "Logility",
   "description": "Logility is an AI-powered supply chain planning platform providing solutions for demand sensing, inventory optimization, supply planning, S&OP process management, and supply chain analytics. Part of Aptean, Logility serves 600+ clients across 80 countries with capabilities for demand planning, inventory optimization, scenario planning, manufacturing execution, and supplier management across 12+ industry verticals.",
   "url": "https://www.logility.com/",
-  "logo": "https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg",
+  "logo": "https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg",
   "sameAs": [
     "https://www.linkedin.com/company/logility",
     "https://twitter.com/logilityinc"

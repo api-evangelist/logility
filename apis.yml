@@ -39,6 +39,8 @@ apis:
       - type: FinOps
         url: https://raw.githubusercontent.com/api-evangelist/logility/refs/heads/main/finops/logility-finops.yml
 common:
+  - type: DomainSecurity
+    url: security/logility-domain-security.yml
   - type: Website
     url: https://www.logility.com/
   - type: Documentation

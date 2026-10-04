@@ -37,7 +37,7 @@ tags:
   - S&OP
   - Supply Chain Analytics
   - Artificial Intelligence
-  - Machine-Learning
+  - Machine Learning
 tags_raw:
   - Supply Chain
   - Demand Planning
@@ -47,6 +47,7 @@ tags_raw:
   - Supply Chain Analytics
   - AI
   - Machine Learning
+  - Machine-Learning
 apis:
   - aid: logility:logility-supply-chain-api
     name: Logility Supply Chain API

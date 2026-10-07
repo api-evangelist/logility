@@ -1,3 +1,8 @@
+# Provenance stamped 2026-10-07 (roadmap#943): written by an API Evangelist sweep (dated 2026-06-13 by the file itself), not
+# harvested from the provider. `method: generated` so the economics campaign may replace it with a
+# dated, verbatim transcription; every figure below is unverified until it does.
+method: generated
+generated: '2026-06-13'
 name: Logility Rate Limits
 description: Logility does not publish public rate limit documentation. As an enterprise supply chain planning platform, API rate limits and throttling policies are defined per customer contract and negotiated as part of the enterprise agreement. Customers should consult their Logility account team or client services for specific rate limit details applicable to their deployment.
 url: https://www.logility.com/contact-us/

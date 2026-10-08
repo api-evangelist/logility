@@ -37,3 +37,16 @@ notes:
   - Contact sales at info@logility.com or +1 800-762-5207
   - Free demo available via the Logility website
   - Implementation effort reduced by up to 90% via pre-built connectors
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models:
+  - negotiated
+  units: []
+  plans:
+  - name: Enterprise
+    access: other
+    model: negotiated
+    model_how: derived
+    units: []
+    periods: []

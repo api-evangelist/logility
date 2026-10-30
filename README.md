@@ -64,38 +64,104 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Logility is an AI-powered supply chain planning platform providing solutions for demand sensing, inventory optimization, supply planning, S&OP process management, and supply chain analytics. Part of Aptean (acquired April 2025), Logility serves 600+ clients across 80 countries and has been named a Gartner Magic Quadrant Leader in 2026 for Supply Chain Planning Solutions.
+Logility is an AI-powered supply chain planning platform providing solutions for demand sensing, inventory optimization, supply planning, S&OP process management, and supply chain analytics. Part of Aptean, Logility serves 600+ clients across 80 countries with capabilities for demand planning, inventory optimization, scenario planning, manufacturing execution, and supplier management across 12+ industry verticals.
 
-## Platform Capabilities
+**Areas:** Supply Chain · Demand Planning · Inventory Optimization · Supply Planning · S&OP · Supply Chain Analytics · Artificial Intelligence · Machine Learning
 
-- **Demand Planning**: DemandAI+, Demand Sensing, real-time demand signal processing
-- **Inventory Optimization**: InventoryAI+, MEIO, Automated Inventory Policies
-- **Scenario Planning**: S&OP, S&OE, Decision Command Center
-- **Supply Chain Design**: Network Optimization
-- **Manufacturing**: Manufacturing Execution and Optimization
-- **Supplier Management**: Vendor Management, Sourcing, Quality & Compliance, Traceability
-- **AppCentral**: AI-native orchestration platform connecting data, tools, workflows, and teams
+## Logility on APIs.io
 
-## Links
+Everything profiled for Logility is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/logility/](https://apis.io/providers/logility/)** — or go straight to one of the APIs or properties below.
 
-- **Website**: https://www.logility.com/
-- **Platform**: https://www.logility.com/solutions/platform/
-- **Blog**: https://www.logility.com/blog/
-- **Contact/Pricing**: https://www.logility.com/contact-us/
-- **LinkedIn**: https://www.linkedin.com/company/logility
-- **X (Twitter)**: https://twitter.com/logilityinc
+### APIs (1)
 
-## APIs.json
+- [Logility Supply Chain API](https://apis.io/apis/logility/logility-supply-chain-api/) — REST API for Logility's AI-powered supply chain planning platform, enabling integration with demand sensing, inventory optimization, supply planning, S&OP…
 
-This repository contains an APIs.json 0.19 profile for Logility.
+### Published properties
 
-- [apis.yml](apis.yml) - Main APIs.json profile
-- [plans/logility-plans-pricing.yml](plans/logility-plans-pricing.yml) - Pricing plans
-- [rate-limits/logility-rate-limits.yml](rate-limits/logility-rate-limits.yml) - Rate limit information
-- [finops/logility-finops.yml](finops/logility-finops.yml) - FinOps details
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## Contact
+#### Security (1)
 
-- **Sales**: info@logility.com | +1 800-762-5207
-- **Media**: press@logility.com
-- **Training**: education@logility.com
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Logility Domain Security](https://apis.io/security/logility/logility-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Logility Plans Pricing](https://apis.io/plans/logility/logility-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Logility Rate Limits](https://apis.io/rate-limits/logility/logility-rate-limits/)
+
+#### FinOps (1)
+
+What the API costs to run, by operation.
+
+- [Logility Finops](https://apis.io/finops/logility/logility-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.logility.com/)
+- [Documentation](https://www.logility.com/solutions/platform/)
+- [Pricing](https://www.logility.com/contact-us/)
+- [Blog](https://www.logility.com/blog/)
+
+## API Evangelist rating
+
+**Kin Score 6.2** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 5.3 |
+
+**Agent readiness 2.5** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 5.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/logility/](https://apis.io/providers/logility/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Logility: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/logility/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
